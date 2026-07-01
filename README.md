@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujjydv/dsaleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,4 +36,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujjydv/dsaleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujjydv/dsaleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujjydv/dsaleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
