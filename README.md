@@ -13,6 +13,7 @@
 | [0072-edit-distance](https://github.com/anujjydv/dsaleetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjydv/dsaleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujjydv/dsaleetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujjydv/dsaleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
@@ -91,4 +93,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/anujjydv/dsaleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anujjydv/dsaleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anujjydv/dsaleetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
