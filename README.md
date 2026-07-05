@@ -9,6 +9,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anujjydv/dsaleetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anujjydv/dsaleetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anujjydv/dsaleetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjydv/dsaleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -17,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/anujjydv/dsaleetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anujjydv/dsaleetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anujjydv/dsaleetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
