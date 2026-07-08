@@ -124,4 +124,12 @@
 | ------- |
 | [0100-same-tree](https://github.com/anujjydv/dsaleetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anujjydv/dsaleetcode/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anujjydv/dsaleetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anujjydv/dsaleetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
