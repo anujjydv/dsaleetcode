@@ -12,6 +12,7 @@
 | [0062-unique-paths](https://github.com/anujjydv/dsaleetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anujjydv/dsaleetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anujjydv/dsaleetcode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/anujjydv/dsaleetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjydv/dsaleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/anujjydv/dsaleetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjydv/dsaleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
