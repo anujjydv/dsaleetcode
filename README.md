@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujjydv/dsaleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/anujjydv/dsaleetcode/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/anujjydv/dsaleetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujjydv/dsaleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anujjydv/dsaleetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anujjydv/dsaleetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
