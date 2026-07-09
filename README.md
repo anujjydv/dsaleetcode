@@ -37,6 +37,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/anujjydv/dsaleetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujjydv/dsaleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujjydv/dsaleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/anujjydv/dsaleetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujjydv/dsaleetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
