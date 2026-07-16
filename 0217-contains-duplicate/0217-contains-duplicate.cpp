@@ -7,6 +7,5 @@ public:
             st.insert(nums[i]);
         }
         return false;
-        
     }
 };
