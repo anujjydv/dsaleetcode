@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anujjydv/dsaleetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anujjydv/dsaleetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anujjydv/dsaleetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/anujjydv/dsaleetcode/tree/master/0118-pascals-triangle) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anujjydv/dsaleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0064-minimum-path-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/anujjydv/dsaleetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/anujjydv/dsaleetcode/tree/master/0118-pascals-triangle) |
@@ -123,6 +125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/anujjydv/dsaleetcode/tree/master/0074-search-a-2d-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Combinatorics
