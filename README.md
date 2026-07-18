@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujjydv/dsaleetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anujjydv/dsaleetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0064-minimum-path-sum) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anujjydv/dsaleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0045-jump-game-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujjydv/dsaleetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/anujjydv/dsaleetcode/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +95,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujjydv/dsaleetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
