@@ -39,6 +39,7 @@
 | [0055-jump-game](https://github.com/anujjydv/dsaleetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/anujjydv/dsaleetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/anujjydv/dsaleetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/anujjydv/dsaleetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0119-pascals-triangle-ii) |
@@ -87,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anujjydv/dsaleetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujjydv/dsaleetcode/tree/master/0242-valid-anagram) |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anujjydv/dsaleetcode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anujjydv/dsaleetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
