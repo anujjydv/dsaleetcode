@@ -13,7 +13,7 @@ public:
             } else cnt--;
         }
         int cnt1 = 0;
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < n; i++){ // for checking majority element exist or not.
             if(nums[i] == el) cnt1++;
         }
         if(cnt1 > n/2) return el;
