@@ -54,6 +54,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/anujjydv/dsaleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujjydv/dsaleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anujjydv/dsaleetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,4 +163,9 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anujjydv/dsaleetcode/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anujjydv/dsaleetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anujjydv/dsaleetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
