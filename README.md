@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anujjydv/dsaleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/anujjydv/dsaleetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anujjydv/dsaleetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anujjydv/dsaleetcode/tree/master/0055-jump-game) |
@@ -162,6 +163,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anujjydv/dsaleetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anujjydv/dsaleetcode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anujjydv/dsaleetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
