@@ -56,6 +56,7 @@
 | [0162-find-peak-element](https://github.com/anujjydv/dsaleetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/anujjydv/dsaleetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujjydv/dsaleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -80,6 +81,7 @@
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujjydv/dsaleetcode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujjydv/dsaleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujjydv/dsaleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
