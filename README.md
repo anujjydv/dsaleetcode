@@ -57,6 +57,7 @@
 | [0162-find-peak-element](https://github.com/anujjydv/dsaleetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anujjydv/dsaleetcode/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/anujjydv/dsaleetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anujjydv/dsaleetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
@@ -108,12 +110,14 @@
 | [0075-sort-colors](https://github.com/anujjydv/dsaleetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anujjydv/dsaleetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
