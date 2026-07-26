@@ -28,6 +28,7 @@
 | [0048-rotate-image](https://github.com/anujjydv/dsaleetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anujjydv/dsaleetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anujjydv/dsaleetcode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anujjydv/dsaleetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujjydv/dsaleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -107,6 +109,7 @@
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujjydv/dsaleetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
