@@ -23,6 +23,5 @@ public:
         slow->next = slow->next->next;
         delete middle;
         return head;
-        
     }
 };
