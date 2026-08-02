@@ -32,7 +32,5 @@ public:
             curr->next = newNode;
         }
         return dummyNode->next;
-
-        
     }
 };
