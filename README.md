@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/anujjydv/dsaleetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anujjydv/dsaleetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anujjydv/dsaleetcode/tree/master/0070-climbing-stairs) |
@@ -189,6 +190,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anujjydv/dsaleetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/anujjydv/dsaleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -200,6 +202,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/anujjydv/dsaleetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anujjydv/dsaleetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
