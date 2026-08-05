@@ -23,6 +23,7 @@
 | [0119-pascals-triangle-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjydv/dsaleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/anujjydv/dsaleetcode/tree/master/0221-maximal-square) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Math
 |  |
@@ -64,6 +65,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujjydv/dsaleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anujjydv/dsaleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujjydv/dsaleetcode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/anujjydv/dsaleetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -180,6 +182,7 @@
 | [0064-minimum-path-sum](https://github.com/anujjydv/dsaleetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anujjydv/dsaleetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anujjydv/dsaleetcode/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/anujjydv/dsaleetcode/tree/master/0221-maximal-square) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
