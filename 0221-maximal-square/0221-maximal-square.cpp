@@ -3,19 +3,19 @@ public:
     int maximalSquare(vector<vector<char>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
-        vector<vector<int>> dp(m, vector<int>(n, 0));
+        vector<int> dp(n+1, 0);
         int maxside = 0;
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if(matrix[i][j] == '1'){
-                    if(i == 0 || j == 0){
-                        dp[i][j] = 1;
-                    }
-                    else {
-                        dp[i][j] = 1 + min({dp[i-1][j], dp[i][j-1], dp[i-1][j-1]});
-                    }
-                    maxside = max(maxside, dp[i][j]);
+        int prev = 0;
+        for(int i = 1; i <= m; i++){
+            prev = 0;
+            for(int j = 1; j <= n; j++){
+                int temp = dp[j];
+                if(matrix[i-1][j-1] == '1'){
+                    dp[j] = 1 + min({dp[j], dp[j-1], prev});
+                    maxside = max(maxside, dp[j]);
                 }
+                else dp[j] = 0;
+                prev = temp;
             }
         }
         return maxside*maxside;
