@@ -71,6 +71,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anujjydv/dsaleetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/anujjydv/dsaleetcode/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/anujjydv/dsaleetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anujjydv/dsaleetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anujjydv/dsaleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -146,6 +147,7 @@
 | [0045-jump-game-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anujjydv/dsaleetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/anujjydv/dsaleetcode/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
 | ------- |
