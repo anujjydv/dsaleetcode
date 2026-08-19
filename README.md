@@ -70,6 +70,7 @@
 | [0229-majority-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/anujjydv/dsaleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/anujjydv/dsaleetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anujjydv/dsaleetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anujjydv/dsaleetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anujjydv/dsaleetcode/tree/master/0704-binary-search) |
@@ -163,6 +164,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/anujjydv/dsaleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anujjydv/dsaleetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anujjydv/dsaleetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -271,4 +273,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anujjydv/dsaleetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anujjydv/dsaleetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
