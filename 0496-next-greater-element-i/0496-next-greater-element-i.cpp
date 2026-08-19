@@ -17,7 +17,6 @@ public:
             while(nums2[j] != nums1[i]) j++;
             ans[i] = nge[j];
         }
-
         return ans;
         
     }
