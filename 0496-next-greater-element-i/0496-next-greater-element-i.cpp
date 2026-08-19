@@ -18,6 +18,5 @@ public:
             ans[i] = nge[j];
         }
         return ans;
-        
     }
 };
